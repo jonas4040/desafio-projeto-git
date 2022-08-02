@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-    printf("First c in arduino.");
+    printf("Simple c file for a commit.");
     return 0;
 }
